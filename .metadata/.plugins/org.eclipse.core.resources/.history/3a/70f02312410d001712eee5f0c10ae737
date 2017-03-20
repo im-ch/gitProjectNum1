@@ -1,0 +1,28 @@
+package service;
+
+import java.util.List;
+
+import domain.Post;
+import domain.User;
+
+public interface UserService {
+	
+//	+create(user : User): boolean
+//	+remove(id : String): boolean
+//	+modify(user: User): boolean
+//	+findAll : List<User>
+//	+findById(id : String) : User
+//	+findByNickName(nickName: String): List<Post>
+//	+findMySongByUserId(id: String): List<Post>
+//	+identifyByUserPassword(password: String): boolean
+	
+	boolean create (User user);
+	boolean remove (String id);
+	boolean modify (User user);
+	List<User> findAll();
+	User findById (String id);
+	List<Post> findByNickName(String nickName);
+	List<Post> findMySongByUserId(String id);
+	boolean identifyByUserPassword(String password);
+
+}

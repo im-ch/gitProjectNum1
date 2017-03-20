@@ -1,0 +1,38 @@
+<div id="stuck_container">
+		<div class="container">
+			<div class="row">
+				<div class="grid_12">
+                    <br>
+                    <br>
+                    <br>
+					<!--<div class="social">
+						<a href="#"><span class="bd-ra fa fa-facebook"></span></a>
+						<a href="#"><span class="bd-ra fa fa-tumblr"></span></a>
+						<a href="#"><span class="bd-ra fa fa-google-plus"></span></a>
+					</div>-->
+					<h1><a href="index.jsp">Super Star Kosta<span>who is best?</span></a></h1>
+					<nav>
+						<ul class="sf-menu">
+							<!--<li class="current"><a href="index.html">Home</a>
+								<ul>
+									<li><a href="#">Lorem ipsum</a></li>
+									<li><a href="#">Lorem ipsum</a>
+										<ul>
+											<li><a href="#">Lorem ipsum</a></li>
+											<li><a href="#">Lorem ipsum</a></li>
+											<li><a href="#">Lorem ipsum</a></li>
+										</ul>
+									</li>
+									<li><a href="#">Lorem ipsum</a></li>
+								</ul>
+							</li>-->
+							<li><a href="index-1.jsp">Services</a></li>
+							<li><a href="index-2.jsp">Portfolio</a></li>
+							<li><a href="index-3.jsp">Blog</a></li>
+							<li><a href="index-4.jsp">Contacts</a></li>
+						</ul>
+					</nav>
+				</div>
+			</div>
+		</div>
+	</div>
